@@ -1,5 +1,5 @@
-***🌍 Air Quality Analysis Project *** <br />
-📖 Introduction
+### 🌍 Air Quality Analysis Project  <br />
+Introduction
 
 Air quality has been one of the most significant environmental issues throughout modern history. The industrial revolution, recent population growth, and infrastructure development have led to increasing concentrations of pollutants in the Earth’s atmosphere.
 
@@ -9,7 +9,7 @@ According to the World Health Organization (WHO), an estimated 7 million prematu
 
 Communities, governments, and corporations all stand to benefit from improvements in air quality analysis. The applications of the work are varied, with a high potential to be of use in areas we have not yet explored. In addition, understanding air quality patterns can inform city planning, disaster preparedness, and policy design. By focusing on air quality analysis, our research contributes to a growing global effort to improve quality of life and build more sustainable futures.
 
-👥 Stakeholders
+### Stakeholders
 
 The issue of air quality touches a wide range of stakeholders, from individuals and families to entire industries and national governments.
 
@@ -25,7 +25,7 @@ Technology companies: innovations in monitoring, sensors, predictive modeling, a
 
 The scope of air quality means that nearly every sector of society has some level of involvement or responsibility. The implications are global in scale but often felt most acutely at the local and community level.
 
-⚠️ Current Challenges
+### Current Challenges
 
 The most obvious challenge that the industry currently faces is climate change.
 
@@ -33,13 +33,13 @@ Pollutants released into the atmosphere, largely due to human activity, drive cl
 
 While significant progress has been made in measurement and regulation, room for improvement remains.
 
-Existing Solutions
+### Existing Solutions
 
 EPA National Ambient Air Quality Standards (NAAQS) set acceptable pollutant levels.
 
 Data is collected through monitoring stations + satellite data.
 
-Remaining Gaps
+### Remaining Gaps
 
 Coverage gaps in resource-limited areas.
 
@@ -49,11 +49,11 @@ Highlights the need for data science, machine learning, and open data to generat
 
 This issue lies at the intersection of government, policy, individual behavior, and corporate activity, requiring combined efforts from all parties.
 
-🎯 Project Goals
+### Project Goals
 
 Our project is designed to explore opportunities by conducting an air quality analysis using modern data-driven methods.
 
-Objectives:
+### Objectives:
 
 Evaluate air quality trends.
 
@@ -63,7 +63,7 @@ Highlight correlations between pollution and health/socioeconomic factors.
 
 Support arguments for climate action.
 
-Data Sources:
+### Data Sources:
 
 EPA
 
@@ -85,7 +85,7 @@ Machine learning models for predictive analysis.
 
 Comparative studies (urban vs rural, policy impact).
 
-🛠️ Skills & Practice
+### Skills & Practice
 
 This project serves as practice for:
 
@@ -99,7 +99,7 @@ Domain knowledge development
 
 By examining the intersection of related domains, our project adds a new perspective.
 
-🌱 Impact & Outcomes
+###  Impact & Outcomes
 
 We aim to present both descriptive results and actionable recommendations, such as:
 
